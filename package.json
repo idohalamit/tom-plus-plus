@@ -2,8 +2,10 @@
   "name": "tom-plus-plus",
   "private": true,
   "version": "0.0.0",
+  "main": "/src/index.jsx",
   "type": "module",
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
